@@ -1,3 +1,4 @@
-Tetris/bin/
-Tetris/.vs/
-Tetris/obj/
+*/bin/
+*/.vs/
+*/obj/
+*.json
